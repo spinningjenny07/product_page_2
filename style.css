@@ -1,0 +1,34 @@
+.escape_button {
+	margin-left: 600px;
+	margin-top: 10px;
+	margin-bottom: 5px;
+}
+
+.navbar {
+	margin-top: 20px;
+}
+.dv_video {
+	width: 400px;
+	height: 300px;
+}
+
+.atv_logo {
+	width: 75%;
+	margin-left: 120px;
+	margin-top: 30px;
+
+}
+
+.atvInfo {
+	background-color: #660066;
+	border: 5px solid #d98cd9;
+	text-align: center;
+	width: 100%;
+	height: 100%;
+}
+
+.atvContent {
+	background-color: #d98cd9;
+	width: 400px;
+	height: 300px;
+}
